@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.57463685.chunk.css",
+    "main.js": "/static/js/main.424b32ea.chunk.js",
+    "main.js.map": "/static/js/main.424b32ea.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.63c38c94.js",
+    "runtime-main.js.map": "/static/js/runtime-main.63c38c94.js.map",
+    "static/css/2.42e056c6.chunk.css": "/static/css/2.42e056c6.chunk.css",
+    "static/js/2.9b2d61e7.chunk.js": "/static/js/2.9b2d61e7.chunk.js",
+    "static/js/2.9b2d61e7.chunk.js.map": "/static/js/2.9b2d61e7.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b2911b1763da71e6353be05b9fdaa2ba.js": "/precache-manifest.b2911b1763da71e6353be05b9fdaa2ba.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.42e056c6.chunk.css.map": "/static/css/2.42e056c6.chunk.css.map",
+    "static/css/main.57463685.chunk.css.map": "/static/css/main.57463685.chunk.css.map",
+    "static/js/2.9b2d61e7.chunk.js.LICENSE.txt": "/static/js/2.9b2d61e7.chunk.js.LICENSE.txt",
+    "static/media/bannar-img-2.png": "/static/media/bannar-img-2.670bc351.png",
+    "static/media/brooke.jpg": "/static/media/brooke.6a9921db.jpg",
+    "static/media/chat.png": "/static/media/chat.2416d891.png",
+    "static/media/clinton1.jpg": "/static/media/clinton1.024d9fcb.jpg",
+    "static/media/font-awesome.min.css": "/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/img2.jpg": "/static/media/img2.c30bc1f3.jpg",
+    "static/media/img3.jpg": "/static/media/img3.34a9f441.jpg",
+    "static/media/img4.jpg": "/static/media/img4.75bf7d6b.jpg",
+    "static/media/img5.jpg": "/static/media/img5.160c9ffb.jpg",
+    "static/media/medicalstory.png": "/static/media/medicalstory.3bab0044.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.63c38c94.js",
+    "static/css/2.42e056c6.chunk.css",
+    "static/js/2.9b2d61e7.chunk.js",
+    "static/css/main.57463685.chunk.css",
+    "static/js/main.424b32ea.chunk.js"
+  ]
+}
